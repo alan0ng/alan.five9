@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <style type="text/css">
+  .five9-chat-button {
+  font-size: 24px !important;
+  }
+  .five9-chat-button:after {
+  content: " Now" !important;
+  }
+  #five9-popout-button {
+  float: right;
+} </style>
+                  
+
+	
+
+
+</head>
+<body>
+
+<script src="https://app.five9.com/consoles/SocialWidget/five9-social-widget.min.js"></script>
+<script>
+var options = {
+	"rootUrl": "https://app.five9.com/consoles/",
+	"type": "chat",
+	"title": "",
+	"tenant": "PS 2021.3a.6",
+	"profiles": "SMS Inbound",
+	"showProfiles": true,
+	"autostart": true,
+	"theme": "",
+	"surveyOptions": {
+		"showComment": false,
+		"requireComment": false
+	},
+	"fields": {
+		"name": {
+			"value": "",
+			"show": true,
+			"label": "Name"
+		},
+		"email": {
+			"value": "",
+			"show": true,
+			"label": "Email"
+		},
+		"UserLocale": {
+			"value": "en",
+			"show": false
+		}
+	},
+	"playSoundOnMessage": true,
+	"allowCustomerToControlSoundPlay": false,
+	"lang": "https://alan0ng.github.io/advancedchatfive9/language.js",
+	"showEmailButton": true,
+	"hideDuringAfterHours": true,
+	"useBusinessHours": false,
+	"showPrintButton": true,
+	"allowUsabilityMenu": false,
+	"enableCallback": false,
+	"callbackList": "",
+	"allowRequestLiveAgent": false
+};
+Five9SocialWidget.addWidget(options);
+
+</script>
+
+
+
+
+</body>
+</html>
