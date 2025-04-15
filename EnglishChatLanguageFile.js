@@ -33,7 +33,8 @@ chatLangCallback({
     "S_VIDEO_TERMINATED": "Video and/or audio terminated",
     "S_INPUT_MESSAGE_PLACEHOLDER": "Type here...",
 	"S_PRINT_TRANSCRIPT": "Alan Print Transcript",
-    "S_REQUEST_TRANSCRIPT": "Alan Email Transcript..."
+    "S_REQUEST_TRANSCRIPT": "Alan Email Transcript...",
+	  "S_BIGGER_FONT": "TEST FONT"
   },
   "S_ERROR_PAGE": {
     "S_START_OVER": "Start Over",
