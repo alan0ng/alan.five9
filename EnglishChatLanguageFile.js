@@ -32,7 +32,7 @@ chatLangCallback({
     "S_VIDEO_ACTIVATED": "Video and/or audio activated",
     "S_VIDEO_TERMINATED": "Video and/or audio terminated",
     "S_INPUT_MESSAGE_PLACEHOLDER": "Type here...",
-	"S_PRINT_TRANSCRIPT": "Alan Print Transcript",
+	"S_PRINT_TRANSCRIPT": "Alan Print Transcriptv2",
     "S_REQUEST_TRANSCRIPT": "Alan Email Transcript...",
 	  "S_BIGGER_FONT": "TEST FONT"
   },
