@@ -64,6 +64,8 @@ chatLangCallback({
 
  
   },
+	 "S_BIGGER_FONT": "TEST BIGGER FONTv2"
+  },
   "S_END_CHAT": "Chat ended",
   "S_CANCEL": "Cancel",
   "S_VALIDATE": {
