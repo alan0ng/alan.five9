@@ -16,6 +16,9 @@ chatLangCallback({
   "S_CONNECTING_PAGE": {
     "S_CONTENT": "You are being connected to an agent."
   },
+	  "S_FIVE9_USABILITY_MENU": {
+    "S_BIGGER_FONT": "TEST BIGGER FONT"
+  },
   "S_CONVERSATION_PAGE": {
     "S_SEND_BUTTON": "Send",
     "S_EXIT_CONFERENCE": "Agent {0} left the conference.",
