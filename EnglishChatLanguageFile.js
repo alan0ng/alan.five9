@@ -37,7 +37,9 @@ chatLangCallback({
     "S_INPUT_MESSAGE_PLACEHOLDER": "Type here...",
 	"S_PRINT_TRANSCRIPT": "Alan Print Transcriptv2",
     "S_REQUEST_TRANSCRIPT": "Alan Email Transcript...",
-	  "S_BIGGER_FONT": "TEST FONT"
+	  "S_BIGGER_FONT": "TEST FONT",
+	   "S_FIVE9_USABILITY_MENU": {
+    "S_BIGGER_FONT": "TEST BIGGER FONTv4"
   },
   "S_ERROR_PAGE": {
     "S_START_OVER": "Start Over",
